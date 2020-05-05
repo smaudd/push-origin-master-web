@@ -12,23 +12,20 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.2",
-    "esm": "^3.2.25",
-    "express": "^4.17.1",
-    "gulp-autoprefixer": "^7.0.1",
-    "map-stream": "0.0.7",
-    "nodemon": "^2.0.3",
-    "through2": "^3.0.1",
-    "yaml": "^1.9.2"
   },
   "devDependencies": {
+    "del": "^5.1.0",
+    "ejs": "^3.1.2",
+    "esm": "^3.2.25",
+    "gulp-autoprefixer": "^7.0.1",
+    "through2": "^3.0.1",
+    "yaml": "^1.9.2",
     "@babel/core": "^7.9.6",
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
     "@babel/preset-env": "^7.9.6",
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
-    "gulp-nodemon": "^2.5.0",
     "gulp-rename": "^2.0.0",
     "minimist": "^1.2.5"
   }
